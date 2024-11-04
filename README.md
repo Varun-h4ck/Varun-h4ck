@@ -8,15 +8,17 @@ I'm Varun😊, diving into the world of Security Operations Center (SOC) 🌐. I
 
 🐉 Familiar with tools such as: 
 
-    🌐 SIEM - Splunk , Wazuh
+    🌐 SIEM - Splunk , Wazuh .
     
-    🕵️ EDR - Sophos intercept X 
+    🕵️ EDR - Sophos intercept X .
     
-    🛜 Wireshark, Tcpdump
+    🛜 Wireshark, Tcpdump .
     
     🕸️ Vulnerability assesment - Nessus 
     
     🍁 Nmap, Maltego, Burpsuite .
+
+    🚩 Yara , Autopsy .
     
 📑 Tools i'm gonna explore in upcomming days: IBM Qradar siem , Qualys vm , Crowdstrike edr.
     
