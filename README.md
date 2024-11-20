@@ -20,6 +20,5 @@ I'm Varun😊, diving into the world of Security Operations Center (SOC) 🌐. I
 
     🚩 Yara , Autopsy .
     
-📑 Tools i'm gonna explore in upcomming days: IBM Qradar siem , Qualys vm , Crowdstrike edr.
 
 Looking forward to connecting with others in cybersecurity.
