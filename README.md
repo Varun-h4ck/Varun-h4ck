@@ -18,7 +18,6 @@ I'm Varun😊, diving into the world of Security Operations Center (SOC) 🌐. I
     
     🍁 Nmap, Maltego, Burpsuite .
 
-    🚩 Yara , Autopsy .
-    
+   
 
 Looking forward to connecting with others in cybersecurity.
